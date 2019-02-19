@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator App</string>
+    <string name="multSign">x</string>
+    <string name="divideSign">/</string>
+    <string name="plusSign">+</string>
+    <string name="minusSign">-</string> <!--
+    <string name="app_name">Calculator App</string>
+    <string name="app_name">Calculator App</string>
+    <string name="app_name">Calculator App</string>
+    <string name="app_name">Calculator App</string>
+    <string name="app_name">Calculator App</string> -->
+</resources>
